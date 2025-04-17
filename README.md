@@ -7,6 +7,7 @@ This repository contains datasets from multiple published papers since November 
 This collection includes:
 Magnetic field profiles for different relative shift of two coils in .csv format from the XFdtd software
 - Excel (.xls/.xlsx) files containing raw and processed research data
+- Archive with MATLAB codes used to process the data presented. Additional scripts are referenced in the 'Usage' section of the present README file.
 
 ## Associated Publications
 
